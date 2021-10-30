@@ -1,0 +1,7 @@
+#การสร้าง class
+class Employee:
+    pass
+
+
+#การสร้างวัตถุ
+emp1 = Employee
